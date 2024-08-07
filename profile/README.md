@@ -5,6 +5,7 @@ We are the S3-110 team, part of the Beijing University of Posts and Telecommunic
 
 ## Our Repositories and Coding Stats
 Below are our active projects with their respective coding activity stats:
+(Beacause of the limitation of the competition rules, the data may not be updated in real time.)
 
 <table>
   <tr>
